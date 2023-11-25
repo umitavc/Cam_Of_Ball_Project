@@ -1,0 +1,24 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#1E1E1E"/>
+<g id="iPhone 14 Plus - 1" clip-path="url(#clip0_0_1)">
+<rect width="428" height="1329" transform="translate(-174 -349)" fill="#FAFBFE"/>
+<g id="Frame 427322366">
+<g id="Frame 427322362">
+<rect id="Rectangle 937" x="-154" y="-23" width="191" height="185" rx="10" fill="#F3F3F3"/>
+<g id="Group 427321927">
+<g id="Frame 427322351">
+<circle id="Ellipse 7" cx="10" cy="10" r="10" fill="white"/>
+<g id="arrow-left">
+<path id="Vector" d="M8.62495 5.08118C8.7437 5.08118 8.86245 5.12493 8.9562 5.21868L13.0312 9.29367C13.6937 9.95617 13.6937 11.0437 13.0312 11.7062L8.9562 15.7812C8.77495 15.9624 8.47495 15.9624 8.2937 15.7812C8.11245 15.5999 8.11245 15.2999 8.2937 15.1187L12.3687 11.0437C12.6687 10.7437 12.6687 10.2562 12.3687 9.95618L8.2937 5.88118C8.11245 5.69993 8.11245 5.39992 8.2937 5.21868C8.38745 5.13117 8.5062 5.08118 8.62495 5.08118Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="428" height="1329" fill="white" transform="translate(-174 -349)"/>
+</clipPath>
+</defs>
+</svg>
